@@ -1,4 +1,4 @@
-## Malaria cell infection classification using Keras
+## Malaria cell infection classification w/ Keras
 
 Malaria parasites are identified by microscopic examination of a drop of the patient’s blood, spread out as a “blood smear” on a microscope slide. 
 
