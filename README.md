@@ -3,8 +3,9 @@ CNN-based classification of 150 x 150 cell images
 
 <p align="center">
   <img src="https://github.com/EXJUSTICE/Keras-Malaria-Cell-Classification/blob/master/combined.png" width="330" height="183" >
+   <b>Infected (left) vs uninfected cell (right), along with our correct predictions:</b><br>
 </p>
-                                        ##Infected (left) vs uninfected cell (right), along with our correct predictions
+                                      
                                         
 Malaria parasites are identified by microscopic examination of a drop of the patient’s blood, spread out as a “blood smear” on a microscope slide. 
 
