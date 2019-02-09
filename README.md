@@ -6,7 +6,7 @@ CNN-based classification of 150 x 150 cell images
  
 </p>
 <p align="center">
-  <b>Infected (left) vs uninfected cell (right), along with our correct predictions:</b><br>
+  <b>Infected (A-left) vs uninfected cell (B-right), along with corresponding predictions</b><br>
  
 </p>
                                           
